@@ -6,5 +6,5 @@ Aspiring data analyst transitioning from mechanical engineering, with a focus on
 
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Analysis projects related to Tableau, MySQL, Python and Power BI
-- 📫 How to reach me: ... You can reach out to me on LinkedIn [www.linkedin.com/in/sujay-srinivas]
+- 📫 You can reach out to me on LinkedIn [www.linkedin.com/in/sujay-srinivas]
 
